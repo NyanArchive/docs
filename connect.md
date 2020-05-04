@@ -16,7 +16,6 @@
 ### How to play on official osu! again
 - Make sure osu! is **closed**  
 - Open the switcher and click **Switch to osu!**  
-- Make sure the switcher says **You are connected to osu!**  
 - Open osu! and login with your osu! account  
 
 !> If you want to connect to osu!'s website and you see Keesu's website or an error, even if the switcher claims Switch to Bancho, empty your browser cache and restart your browser.
